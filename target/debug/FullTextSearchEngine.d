@@ -1,0 +1,1 @@
+/home/lxdovic/Documents/Projects/FullTextSearchEngine/target/debug/FullTextSearchEngine: /home/lxdovic/Documents/Projects/FullTextSearchEngine/src/document.rs /home/lxdovic/Documents/Projects/FullTextSearchEngine/src/index.rs /home/lxdovic/Documents/Projects/FullTextSearchEngine/src/main.rs
